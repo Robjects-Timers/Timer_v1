@@ -33,3 +33,33 @@ This timer will help you manage your time more effectively, allowing you to focu
 
 Constraint and Focus
 In an attempt to formulate a solution among the infinite amount of ways to solve  that each iteration will~~
+
+
+
+
+===================================
+## Timer Assembly Guide
+
+TIMER_TEMPLATE README
+
+
+
+
+
+### Attributions:
+-------------------
+
+  **Resource #1:**
+  - FILL IN
+    - SECOND SECTION
+
+### License Information
+-------------------
+
+This product is _**open source**_! 
+
+Please use, reuse, and modify these files as you see fit. Please maintain attribution to "Robjects" and release any derivative under the same license.
+
+
+
+##### License 
