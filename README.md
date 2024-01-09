@@ -37,10 +37,18 @@ In an attempt to formulate a solution among the infinite amount of ways to solve
 
 
 
-===================================
-## Timer Assembly Guide
 
-TIMER_TEMPLATE README
+
+## Supplies
+-------------------
+### Materials:
+- 
+
+
+### Tools:
+
+
+
 
 
 
