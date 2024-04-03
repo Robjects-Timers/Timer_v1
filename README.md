@@ -184,7 +184,7 @@ When using the timer in real applications, I wanted to keep my breaks to 15 mins
 #### Step 3. Trigger Signal
 
 -------------------
- Next, we need to attach a trigger load in which when pressed, it will initiate the delay prior to the output being held for time (CL) on mode P4 and/or send power to the load that we will attach to the output connections. But before we start connecting pins and wires, let’s overview how the trigger works with the micro-usb timer hardware.
+ Next, we need to attach a trigger load in which when pressed, it will initiate the delay prior to the output being held for time (CL) on mode P4 and/or send power to the load that we will attach to the output connections. before we start connecting pins and wires, let’s overview how the trigger works with the micro-usb timer hardware.
 
 With this variation of timer, there are two inputs that the circuit will recognize.
 
@@ -318,18 +318,12 @@ Since you need a way to place all components in a secure location, and are going
 
 -------------------
 
-  **Resource #1:**
-
-- [Button and Switch Basics](https://learn.sparkfun.com/tutorials/button-and-switch-basics/all) © 2013 by Sparkfun Electronics,  (Contributor “JIMBLOM”) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-  - Additionally, this guide uses images and text extracted from tutorial above with  contributor “JIMBLOM” ([Sparkfun-profile](https://www.sparkfun.com/users/69916?_ga=2.172188515.1921033785.1704438252-691382123.1704438252)) embedded in this guide.
-
+ 
 ### License Information
 
 -------------------
 
 This product is _**open source**_!
-
-Please use, reuse, and modify these files as you see fit. Please maintain attribution to “Robjects” and release any derivative under the same license.
 
 #### License
 
