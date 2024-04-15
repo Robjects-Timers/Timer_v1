@@ -6,16 +6,14 @@
 # Overview
 
 ![overhead](./images/1-0_timer.jpeg)
-This is the first of many iterations of the engineering design process with the intention of making a timer product from scratch.
+
 
 # Table of Contents
 
-- [TIMER\_V0](#timer_v0)
+- [TIMER\_V1](#timer_v1)
 - [Overview](#overview)
 - [Table of Contents](#table-of-contents)
-  - [Context](#context)
   - [Specific Problem to Solve](#specific-problem-to-solve)
-  - [Solutions](#solutions)
   - [Timer Assembly Guide](#timer-assembly-guide)
     - [Objectives](#objectives)
     - [Supplies](#supplies)
@@ -29,36 +27,14 @@ This is the first of many iterations of the engineering design process with the 
       - [Step 5: Attach external Speaker as Load](#step-5-attach-external-speaker-as-load)
       - [Step 6: Test Timer](#step-6-test-timer)
       - [Step 7: Attach Supporting Hardware (Optional)](#step-7-attach-supporting-hardware-optional)
+    - [Notes:](#notes)
     - [Attributions](#attributions)
     - [License Information](#license-information)
       - [License](#license)
 
-## Context (Problem & Purpose of Repository): 
-In today's digital age, it's easy to find ourselves constantly distracted by various forms of media, such as TV, phones, and/or social media. These distractions can significantly hinder our ability to focus and be productive, especially when it comes to accomplishing long-term goals.
-
-This idea resulted from the frustration and problem that occurred from not being able to focus on my tasks due to being distracted from my phone. And while perhaps some of you may just be able to, very admirably, leave your phone with relentless determination, and move on to your long-term goals as effortless as it was to do the other habit.
-That being said, we have to be both wise and smart and reduce the amount of mental friction we intend to have to partake; otherwise, I don’t stand a chance changing my behavior and might end up worse than I started from the depression of failure. Due to this, I will work on replacing the worst habit of checking my phone and ‘less worse’ habit such as working on these engineering projects so that either way, I am procrastinating, but I am still inside the mental (and physical) environment that my day-to-day career tasks which might end up indirectly improving my productivity.
-
 ## Specific Problem to Solve
 
 Essentially, I want to eliminate the justification of using my phone for time related apps such as timer, stopwatch, clock, alarm, etc.?
-
-Objectively, this problem is arguably nonexistent if you use only the productive apps for its intended purpose while trying to focus on your long-term goals without distractions.
-
-But really… You do that 100% of time? Really bro...? (props if you honestly do though!)
-
-## Solutions
-
-I will be creating several iterations of full hardware/software prototypes that use different hardware/software every iteration. The hope is to incrementally increase complexity of builds that stick to specified criteria common for creating tech solutions.
-
-```
-
-  "why don't you just buy a cheap clock, you goon? Arrr ya dumb or something...?" - online troll somewhere
-
-  My response: Yes... you can solve this problem simply with a quick purchase of a timer, stopwatch from a 1 minute search on Amazon. However, that won't really solve the problem at hand and create a alternative procrastination habit useful for my career goals. Also, where's the fun in buying a solution that won't impact you at your very core increasing the probability of success in defeating your bad habit...? 
-  And, where else can you flex your engineering skills from all different fields of engineering, and have a chance to showcase to my fellow engineering community that can laugh or implement their own projects incrementally improving your life in the best way? 
-
-```
 
  I'll be constantly working on different projects apart from these iterations. If you find my projects interesting and useful, check out my [YouTube Channel]() where I post videos of completed builds (projected 2025) of which showcase the free, open-source projects intended for the community! Please consider donating to my [Patreon](patreon.com/MrMikeyMarks) and  the financial oblior subscribing to 
 
@@ -313,6 +289,11 @@ Once everything has been configured, you should hear a satisfying beep of your c
 
 Since you need a way to place all components in a secure location, and are going to be testing it in the real world, we need to make sure that the overall build will survive its testing phase. I am big advocate for glue guns, as they do not disrupt any electrical connections and provide a quick and easy solution to essentially stick any component anywhere without having to spend all the extra time and hardware assembling through other methods that might require a 3d printer or solder that additionally require mounting via screws. Here is the [glue gun](https://amzn.to/3ScX5oQ) I use that has saved countless hours as some projects take more time in creating enclosures than the the assembly of the circuit.
 
+### Notes:
+
+> **Note**:
+This is the first of many iterations of the engineering design process with the intention of making a timer product from scratch.
+
 ### Attributions
 
 -------------------
@@ -338,52 +319,4 @@ This work is licensed under a
 
 
 
-
-
-
-
-
-
-
-
-Constraint and Focus
-In an attempt to formulate a solution among the infinite amount of ways to solve  that each iteration will~~
-
-
-
-
-
-
-## Supplies
--------------------
-### Materials:
-- 
-
-
-### Tools:
-
-
-
-
-
-
-
-
-### Attributions:
--------------------
-
-  **Resource #1:**
-  - FILL IN
-    - SECOND SECTION
-
-### License Information
--------------------
-
-This product is _**open source**_! 
-
-Please use, reuse, and modify these files as you see fit. Please maintain attribution to "Robjects" and release any derivative under the same license.
-
-
-
-##### License 
 
