@@ -5,7 +5,7 @@
 -------------------------
 # Overview
 
-![overhead](/images/1-0_timer.JPG)
+![overhead](./images/1-0_timer.jpeg)
 This is the first of many iterations of the engineering design process with the intention of making a timer product from scratch.
 
 # Table of Contents
@@ -67,7 +67,7 @@ I will be creating several iterations of full hardware/software prototypes that 
 ## Timer Assembly Guide
 
 -------------------
-![](/images/1-1_timer.JPG)
+![](./images/1-1_timer.jpeg)
 
 
 ### Objectives
