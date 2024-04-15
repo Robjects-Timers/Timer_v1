@@ -1,9 +1,8 @@
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 # TIMER_V1
--------------------
-Repository overviewing Iteration #1 of Self-Created Timer 
-
+-------------------------
 # Overview
 
 ![overhead](/images/1-0_timer.JPG)
@@ -346,4 +345,45 @@ This work is licensed under a
 
 
 
+
+Constraint and Focus
+In an attempt to formulate a solution among the infinite amount of ways to solve  that each iteration will~~
+
+
+
+
+
+
+## Supplies
+-------------------
+### Materials:
+- 
+
+
+### Tools:
+
+
+
+
+
+
+
+
+### Attributions:
+-------------------
+
+  **Resource #1:**
+  - FILL IN
+    - SECOND SECTION
+
+### License Information
+-------------------
+
+This product is _**open source**_! 
+
+Please use, reuse, and modify these files as you see fit. Please maintain attribution to "Robjects" and release any derivative under the same license.
+
+
+
+##### License 
 
