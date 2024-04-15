@@ -6,7 +6,7 @@ Repository overviewing Iteration #1 of Self-Created Timer
 
 # Overview
 
-[TODO: add finished product image]
+![overhead](/images/1-0_timer.JPG)
 This is the first of many iterations of the engineering design process with the intention of making a timer product from scratch.
 
 # Table of Contents
