@@ -68,7 +68,7 @@ I will be creating several iterations of full hardware/software prototypes that 
 ## Timer Assembly Guide
 
 -------------------
-[TODO: add overhead project img here]
+![](/images/1-1_timer.JPG)
 
 
 ### Objectives
