@@ -53,7 +53,8 @@ Essentially, I want to eliminate the justification of using my phone for time re
 - **Goal:** Design a timer from scratch in minimal time
 - **Constraint**: Speed
 - **Pros & Cons of Build**
-| Pros                                                                                                | Cons                                            |
+
+|Pros                                                                                                | Cons                                            |
 | --------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | No Volume adjustment available                                                                      | No coding in build (+ increased speed)          |
 | Power through USB requires additional power source (or hardware hack alternative featured in guide) | No 3D Printed Enclosure (+ increased speed)     |
