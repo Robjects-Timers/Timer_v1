@@ -63,7 +63,7 @@ Essentially, I want to eliminate the justification of using my phone for time re
 | ---                                                                                                 | Minimal focus on aesthetics (+ increased speed) |
 | ---                                                                                                 | Timer hardware allows powering via micro-usb    |
 | ---                                                                                                 | Display for seeing countdown progress.          |
-| ---                                                                                                 | Low cost for full build (under $20 dollars)     |
+| ---                                                                                                 | Low cost for full build (+ under $20 dollars)     |
 
 ### Supplies
 
